@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the coldest season of the year?",
+    "options": ["Winter", "Summer", "Spring", "Fall"],
+    "answer": "Winter"
+  },
+  {
+    "question": "Which holiday is commonly associated with winter?",
+    "options": ["Christmas", "Halloween", "Independence Day", "Easter"],
+    "answer": "Christmas"
+  },
+  {
+    "question": "What is the term for frozen water falling from the sky?",
+    "options": ["Snow", "Rain", "Hail", "Fog"],
+    "answer": "Snow"
+  },
+  {
+    "question": "Which activity is often enjoyed in winter?",
+    "options": ["Skiing", "Surfing", "Gardening", "Fishing"],
+    "answer": "Skiing"
+  },
+  {
+    "question": "What do you typically wear to stay warm in winter?",
+    "options": ["Coat", "Swimsuit", "Flip-flops", "Sunglasses"],
+    "answer": "Coat"
+  },
+  {
+    "question": "Which animal hibernates during winter?",
+    "options": ["Bear", "Lion", "Elephant", "Giraffe"],
+    "answer": "Bear"
+  },
+  {
+    "question": "What temperature does water freeze at?",
+    "options": ["0°C", "100°C", "-10°C", "25°C"],
+    "answer": "0°C"
+  },
+  {
+    "question": "Which winter sport involves sliding down a hill on a board?",
+    "options": ["Snowboarding", "Swimming", "Tennis", "Basketball"],
+    "answer": "Snowboarding"
+  },
+  {
+    "question": "What do people often build out of snow?",
+    "options": ["Snowman", "Sandcastle", "Tree house", "Bridge"],
+    "answer": "Snowman"
+  },
+  {
+    "question": "Which hot drink is popular in winter?",
+    "options": ["Hot chocolate", "Lemonade", "Iced tea", "Smoothie"],
+    "answer": "Hot chocolate"
+  },
+  {
+    "question": "What do birds often do during winter?",
+    "options": ["Migrate south", "Build nests", "Lay eggs", "Learn to swim"],
+    "answer": "Migrate south"
+  },
+  {
+    "question": "What type of tree stays green in winter?",
+    "options": ["Evergreen", "Maple", "Oak", "Birch"],
+    "answer": "Evergreen"
+  },
+  {
+    "question": "What causes ice to form on lakes in winter?",
+    "options": ["Cold temperatures", "Wind", "Rain", "Sun"],
+    "answer": "Cold temperatures"
+  },
+  {
+    "question": "Which winter sport uses a stick and a puck?",
+    "options": ["Hockey", "Football", "Baseball", "Soccer"],
+    "answer": "Hockey"
+  },
+  {
+    "question": "What do you need to wear to protect your hands in winter?",
+    "options": ["Gloves", "Socks", "Hat", "Scarf"],
+    "answer": "Gloves"
+  },
+  {
+    "question": "What is a blizzard?",
+    "options": ["Heavy snowstorm", "Light rain", "Strong wind", "Thunder"],
+    "answer": "Heavy snowstorm"
+  },
+  {
+    "question": "Which vehicle is used to clear snow from roads?",
+    "options": ["Snowplow", "Bicycle", "Motorcycle", "Boat"],
+    "answer": "Snowplow"
+  },
+  {
+    "question": "What do you use to travel downhill on snow?",
+    "options": ["Sled", "Skateboard", "Roller skates", "Scooter"],
+    "answer": "Sled"
+  },
+  {
+    "question": "What can form on windows during cold winter mornings?",
+    "options": ["Frost", "Paint", "Dust", "Leaves"],
+    "answer": "Frost"
+  },
+  {
+    "question": "Which winter activity involves making snow angels?",
+    "options": ["Lying in snow", "Swimming", "Running", "Jumping"],
+    "answer": "Lying in snow"
+  },
+  {
+    "question": "What do you call a house made of snow?",
+    "options": ["Igloo", "Tent", "Cabin", "Villa"],
+    "answer": "Igloo"
+  },
+  {
+    "question": "What season comes after winter?",
+    "options": ["Spring", "Summer", "Fall", "Autumn"],
+    "answer": "Spring"
+  },
+  {
+    "question": "What do you call frozen rain?",
+    "options": ["Sleet", "Mist", "Dew", "Steam"],
+    "answer": "Sleet"
+  },
+  {
+    "question": "Which winter sport involves jumping off a high slope?",
+    "options": ["Ski jumping", "Swimming", "Running", "Cycling"],
+    "answer": "Ski jumping"
+  },
+  {
+    "question": "What do you call a mix of snow and rain?",
+    "options": ["Slush", "Ice", "Hail", "Frost"],
+    "answer": "Slush"
+  },
+  {
+    "question": "What do you wear on your feet to walk in snow?",
+    "options": ["Snow boots", "Sandals", "High heels", "Slippers"],
+    "answer": "Snow boots"
+  },
+  {
+    "question": "What game can you play with snowballs?",
+    "options": ["Snowball fight", "Basketball", "Tennis", "Golf"],
+    "answer": "Snowball fight"
+  },
+  {
+    "question": "What do you call a very cold wind in winter?",
+    "options": ["Bitter wind", "Summer breeze", "Warm air", "Hot blast"],
+    "answer": "Bitter wind"
+  },
+  {
+    "question": "What can you wear around your neck to stay warm?",
+    "options": ["Scarf", "Belt", "Necklace", "Watch"],
+    "answer": "Scarf"
+  },
+  {
+    "question": "What winter sport uses two thin boards on feet?",
+    "options": ["Skiing", "Surfing", "Skating", "Running"],
+    "answer": "Skiing"
+  }
+] 
